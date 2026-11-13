@@ -1,3 +1,4 @@
+
 # Python cache
 __pycache__/
 *.py[cod]
@@ -22,9 +23,8 @@ Thumbs.db
 *.tmp
 *.log
 
-# Project datasets and generated results
+# Raw project datasets
 data/raw/
-data/processed/
 
 # Python cache (including nested folders)
 **/__pycache__/
